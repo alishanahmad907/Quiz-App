@@ -17,6 +17,7 @@ body{
     margin: 100px auto 0 ;
     border-radius: 10px;
     padding: 30px;;
+    transition: ease-in-out 0.3s;
 }
 .app h1{
     font-size: 25px;
