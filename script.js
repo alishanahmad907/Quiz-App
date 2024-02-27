@@ -122,9 +122,10 @@
 // });
 
 // startQuiz();
+ 
 const apiKey = "H8jDaJmTsGgsEyEF36e6ZKTwe3xRrCs7CTHkXuID";
 const apiUrl = "https://quizapi.io/api/v1/questions?category=sql&limit=10&apiKey=";
-
+// https://quizapi.io/api-config
 const questionElement = document.querySelector("#question");
 const answerButton = document.querySelector(".answer-buttons");
 const nextButton = document.querySelector("#next-btn");
